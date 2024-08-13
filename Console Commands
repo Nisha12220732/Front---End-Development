@@ -1,0 +1,26 @@
+1. To access window object:
+   window
+
+2. As console is also the object of window object
+   window.console.log("Hello");
+
+3. To access document object
+   console.log(window.document);
+            or 
+   console.log(window.document); 
+   
+4. To print properties of document object
+   console.dir(window)
+   console.dir(window.document);
+   
+5. To access body of document
+   console.log(window.document.body);
+            or 
+   console.log(document.body); 
+   
+6. To access head of document
+   console.log(window.document.head);
+            or 
+   console.log(document.head); 
+
+ 
